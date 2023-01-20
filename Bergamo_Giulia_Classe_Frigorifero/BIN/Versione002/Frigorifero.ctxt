@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Frigorifero
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Frigorifero\r\n\ \r\n\ @author\ bergamo\ giulia\ \r\n\ @version\ 002\r\n
+comment1.params=
+comment1.target=Frigorifero()
+comment10.params=tempFriz
+comment10.target=void\ setTemperaturaFrizer(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=mar\ mod\ lFrig\ lFriz\ pz\ a\ cw\ tempFrig\ tempFriz
+comment2.target=Frigorifero(java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ boolean,\ int,\ int,\ int)
+comment3.params=mar
+comment3.target=void\ setMarca(java.lang.String)
+comment4.params=mod
+comment4.target=void\ setModello(java.lang.String)
+comment5.params=lFrig
+comment5.target=void\ setLitriFrigo(int)
+comment6.params=lFriz
+comment6.target=void\ setLitriFrizer(int)
+comment7.params=pz
+comment7.target=void\ setPrezzo(double)
+comment8.params=cw
+comment8.target=void\ setConsumoKWat(int)
+comment9.params=tempFrig
+comment9.target=void\ setTemperaturaFrigo(int)
+numComments=12

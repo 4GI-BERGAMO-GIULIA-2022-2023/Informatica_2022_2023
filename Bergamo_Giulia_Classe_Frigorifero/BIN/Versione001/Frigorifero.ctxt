@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Frigorifero
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Frigorifero\r\n\ \r\n\ @author\ bergamo\ giulia\ \r\n\ @version\ 001\r\n
+comment1.params=
+comment1.target=Frigorifero()
+comment2.params=mar\ mod\ lFrig\ lFriz\ pz\ a\ cw\ tempFrig\ tempFriz
+comment2.target=Frigorifero(java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ boolean,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
