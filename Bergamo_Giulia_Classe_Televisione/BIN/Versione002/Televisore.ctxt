@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Televisore
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Televisore\r\n\ \r\n\ @author\ Giulia\ Bergamo\ \r\n\ @version\ 002\r\n
+comment1.params=
+comment1.target=Televisore()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=p\ s\ col\ can\ v\ lum\ a
+comment2.target=Televisore(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ boolean)
+comment3.params=p
+comment3.target=void\ setPollici(int)
+comment4.params=s
+comment4.target=void\ setSchermo(java.lang.String)
+comment5.params=col
+comment5.target=void\ setColore(java.lang.String)
+comment6.params=can
+comment6.target=void\ setCanale(int)
+comment7.params=v
+comment7.target=void\ setVolume(int)
+comment8.params=lum
+comment8.target=void\ setLuninos(int)
+comment9.params=a
+comment9.target=void\ setAcceso(boolean)
+numComments=11

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Televisore
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Televisore\r\n\ \r\n\ @author\ Giulia\ Bergamo\ \r\n\ @version\ 001\r\n
+comment1.params=
+comment1.target=Televisore()
+comment2.params=p\ s\ col\ can\ v\ lum\ a
+comment2.target=Televisore(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

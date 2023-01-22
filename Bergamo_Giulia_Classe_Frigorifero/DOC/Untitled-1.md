@@ -1,4 +1,4 @@
-- #### Classe Java ProgrammaLavatrice (Frigorifero, FrigoriferoTest)<br />
+- #### Classe Java ProgrammaFrigorifero (Frigorifero, FrigoriferoTest)<br />
 - #### Proprietario :
     [Bergamo Giulia]
 - #### Matricola/Email :

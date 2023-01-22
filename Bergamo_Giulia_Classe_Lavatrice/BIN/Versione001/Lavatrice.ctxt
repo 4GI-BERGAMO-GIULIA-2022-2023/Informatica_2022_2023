@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lavatrice
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Lavatrice\r\n\ \r\n\ @author\ giulia\ bergamo\r\n\ @version\ 001\r\n
+comment1.params=
+comment1.target=Lavatrice()
+comment2.params=marc\ mod\ prez\ prog\ t\ g\ k\ a\ temp
+comment2.target=Lavatrice(java.lang.String,\ java.lang.String,\ double,\ int,\ int,\ int,\ int,\ boolean,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
